@@ -1,4 +1,3 @@
-//A + B > C, B + C > A and C + A > B
 #include <iostream>
 using namespace std;
 int main(){
